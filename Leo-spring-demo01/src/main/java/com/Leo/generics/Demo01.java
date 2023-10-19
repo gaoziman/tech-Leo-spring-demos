@@ -1,4 +1,4 @@
-package com.Leo.demo01;
+package com.Leo.generics;
 
 /**
  * @author : Leo
@@ -9,7 +9,7 @@ package com.Leo.demo01;
 public class Demo01 {
 
     private static int add(int a, int b) {
-        System.out.println(a + "+" + b + "=" + (a + b));
+        System.out.println(a + "+"  + b + "=" + (a + b));
         return a + b;
     }
 
@@ -22,5 +22,18 @@ public class Demo01 {
         System.out.println(a + "+" + b + "=" + (a + b));
         return a + b;
     }
+
+
+    private static <T extends Number> double add(T a, T b) {
+        System.out.println(a + "+" + b + "=" + (a.doubleValue() + b.doubleValue()));
+        return a.doubleValue() + b.doubleValue();
+    }
+
+    public static void main(String[] args) {
+//        add(3,5);
+        double add = add(3, 8);
+        System.out.println("add = " + add);
+    }
+
 
 }
