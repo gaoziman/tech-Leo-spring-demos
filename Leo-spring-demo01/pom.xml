@@ -7,6 +7,11 @@
     <groupId>com.Leo</groupId>
     <artifactId>Leo-spring-demo01</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>Leo-spring-mybatis</module>
+        <module>Leo-spring-demo02</module>
+    </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
