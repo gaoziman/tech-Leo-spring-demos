@@ -42,7 +42,7 @@ public interface UserMapper {
 
     /**
      * 删除用户
-     * @param id 用户id
+     * @param id 用户ids
      */
     void deleteUser(int id);
 }
