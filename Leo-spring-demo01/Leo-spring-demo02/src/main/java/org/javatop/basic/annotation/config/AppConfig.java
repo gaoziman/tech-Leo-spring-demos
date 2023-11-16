@@ -15,6 +15,8 @@ import org.springframework.context.annotation.Scope;
 public class AppConfig {
 
 
+
+
     @Bean("u")
     @Scope("singleton")
     public User user() {

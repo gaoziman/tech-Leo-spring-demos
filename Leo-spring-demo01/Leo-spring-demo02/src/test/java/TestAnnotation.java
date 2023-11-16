@@ -28,4 +28,12 @@ public class TestAnnotation {
         log.info("{}", user1);
         log.info("{}", user2);
     }
+
+    /**
+     *  用于测试:
+     */
+    @Test
+    public void test2() {
+
+    }
 }
