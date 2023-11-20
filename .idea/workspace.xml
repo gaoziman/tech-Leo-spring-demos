@@ -1,33 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f23e5019-5df7-42a6-9245-f3d5d0e9168e" name="Changes" comment="" />
+    <list default="true" id="f23e5019-5df7-42a6-9245-f3d5d0e9168e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Leo-spring-ioc01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leo-spring-ioc01/src/main/java/org/javatop/IocTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leo-spring-ioc01/src/main/java/org/javatop/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leo-spring-ioc01/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leo-spring-demo01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leo-spring-demo01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leo-spring-demo01/src/main/java/com/Leo/generics/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leo-spring-demo01/src/main/java/com/Leo/generics/Demo01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leo-spring-demo01/src/main/java/com/Leo/generics/Demo03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leo-spring-demo01/src/main/java/com/Leo/generics/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leo-spring-demo01/src/main/java/com/Leo/generics/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leo-spring-demo01/src/main/java/com/Leo/transaction/MethodOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leo-spring-demo01/src/main/java/com/Leo/transaction/Test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\maven-repository" />
-        <option name="mavenHome" value="D:/apache-maven-3.8.4" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.8.4\conf\settings.xml" />
+        <option name="localRepository" value="D:\software\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../software/apache-maven-3.8.8" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.8.8\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2YI4bxfVzDuxeAXimae7WOVdLZH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;E:/code-myself&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "D:/IDEA Workplace/Leo-code/tech-Leo-spring-demos/Leo-spring-ioc01/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "settings.editor.splitter.proportion": "0.33217993",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA Workplace\Leo-code\tech-Leo-spring-demos\Leo-spring-ioc01\src\main\resources" />
+      <recent name="D:\IDEA Workplace\Leo-code\tech-Leo-spring-demos\Leo-spring-ioc01\src\main\java\org\javatop" />
+      <recent name="D:\IDEA Workplace\Leo-code\tech-Leo-spring-demos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA Workplace\Leo-code\tech-Leo-spring-demos\simple-spring-code" />
+      <recent name="D:\IDEA Workplace\Leo-code\tech-Leo-spring-demos\Leo-spring-ioc01\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IocTest.test01">
+    <configuration name="IocTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leo-spring-ioc01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javatop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.javatop" />
+      <option name="MAIN_CLASS_NAME" value="org.javatop.IocTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IocTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leo-spring-ioc01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javatop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.javatop" />
+      <option name="MAIN_CLASS_NAME" value="org.javatop.IocTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
       <option name="SPRING_BOOT_MAIN_CLASS" />
@@ -40,6 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IocTest.test01" />
+        <item itemvalue="JUnit.IocTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,6 +149,8 @@
       <option name="presentableId" value="Default" />
       <updated>1692796146330</updated>
       <workItem from="1692796147520" duration="5000" />
+      <workItem from="1700199836158" duration="74000" />
+      <workItem from="1700487595958" duration="3261000" />
     </task>
     <servers />
   </component>
